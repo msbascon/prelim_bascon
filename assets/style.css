@@ -1,0 +1,142 @@
+h1{
+    text-align: left;
+    color: red;
+    font-style: italic;
+    
+}
+.ul-1 {
+        color: maroon;
+        
+       
+}
+
+p{
+    color: maroon;
+    font-family: sans-serif;
+}
+body{
+    background: white;
+}
+
+table{
+    width:900px;
+    margin:auto;
+    table-layout: left;
+    text-align:center;
+    margin-top:80px;
+    font-family:sans-serif;
+    color:black;
+
+}
+
+table, th, td{
+    border: 2px solid black;
+    border-collapse:collapse;
+    padding:20px;
+    font-size:20px;
+    color: rgb(2, 59, 95);
+}
+
+th{
+    background:lightsteelblue;
+    padding:30px;
+    text-transform:uppercase;
+
+}
+
+.red-1 {
+    color: red;
+}
+.red-2 {
+    color:red;
+}
+
+.blue-1 {
+    color: blue;
+}
+
+.green-1 {
+    color: green;
+}
+
+.orange-1 {
+    color: orangered;
+}
+
+td:nth-child(4n+1){
+    background:white;
+   
+}
+
+.fontB-1 {
+    color: black;
+}
+.red-3 {
+    color: red;
+}
+
+.green-2 {
+    color: green;
+}
+
+.black-1 {
+    color:black;
+}
+
+
+td:nth-child(4n+2){
+    background: white;
+    
+}
+
+.pink-1 {
+    color: pink;
+}
+
+.blue-2 {
+    color: blue;
+}
+
+.green-3 {
+    color:green;
+}
+
+td:nth-child(4n+3){
+    background: white;
+  
+    
+}
+
+#y-1 {
+    color: yellow;
+}
+
+#b-3 {
+    color: brown;
+}
+
+#or-1 {
+    color: orangered;
+}
+
+#r-1 {
+    color: red;
+}
+
+.rel-1 {
+    color: darkcyan;
+    
+}
+#rel-1{
+    color: blue;
+}
+#f-2{
+    color: red;
+}
+#c-4 {
+    color: red;
+}
+footer{
+    text-align: center;
+}
+
